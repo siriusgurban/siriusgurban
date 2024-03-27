@@ -8,8 +8,7 @@ I'm a React/Next js developer.
   <a href="https://github.com/siriusgurban?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/>
   </a>
-  <a href="https://github.com/siriusgurban?tab=followers"></a>
-  <a href="https://github.com/DenverCoder1?tab=followers">
+  <a href="https://github.com/siriusgurban?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/siriusgurban?color=236ad3&amp;labelColor=1155ba&amp;style=for-the-badge&amp;logo=person-add&amp;label=Follow&amp;logoColor=white" style="max-width: 100%;"></a>
 </p>
 
