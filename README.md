@@ -12,8 +12,7 @@ I'm a React/Next js developer.
   
 </p>
 
-![GitHub repo size](https://img.shields.io/github/repo-size/USER/REPOSITORY?style=plastic) ![GitHub language count](https://img.shields.io/github/languages/count/USER/REPOSITORY?style=plastic) ![GitHub top language](https://img.shields.io/github/languages/top/USER/REPOSITORY?style=plastic) ![GitHub last commit](https://img.shields.io/github/last-commit/USER/REPOSITORY?color=red&style=plastic)
-
+![GitHub stars](https://img.shields.io/github/stars/USER/REPOSITORY?style=social) ![GitHub forks](https://img.shields.io/github/forks/USER/REPOSITORY?style=social) ![GitHub watchers](https://img.shields.io/github/watchers/USER/REPOSITORY?style=social) ![GitHub followers](https://img.shields.io/github/followers/USER?style=social)
 
 
 #
