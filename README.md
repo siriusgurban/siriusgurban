@@ -19,6 +19,7 @@ I'm a React/Next js developer.
  <p dir="auto"><a href="https://github.com/siriusgurban?tab=repositories"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api?username=siriusgurban&show_icons=true&theme=chartreuse-dark" style="max-width: 100%;"></a>
    <a href="https://github.com/siriusgurban?tab=repositories"><img alt="Top Langs" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=siriusgurban&langs_count=8&layout=compact&theme=react&border_color=E4E2E2FF&bg_color=000000FF&title_color=6BD600FF&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" style="max-width: 100%;"></a></p>
 
+#
 
 ### Languages & Technologies
 
