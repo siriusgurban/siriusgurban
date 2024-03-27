@@ -35,8 +35,6 @@ I'm a React/Next js developer.
 </p>
 
 
-#
-
 
 
 
