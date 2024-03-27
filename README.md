@@ -8,7 +8,7 @@ I'm a React/Next js developer.
   <a href="https://github.com/siriusgurban?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/>
   </a>
-  ![GitHub language count](https://img.shields.io/github/languages/count/USER/REPOSITORY?style=plastic)
+  <a href="https://github.com/siriusgurban?tab=followers">![GitHub language count](https://img.shields.io/github/languages/count/USER/REPOSITORY?style=plastic)</a>
   
 </p>
 
