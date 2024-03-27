@@ -5,7 +5,9 @@
 I'm a React/Next js developer.
 
 <p align="left">
-  <a href="https://github.com/siriusgurban?tab=followers">Git</a>
+  <a href="https://github.com/siriusgurban?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/>
+  </a>
   
 </p>
 
