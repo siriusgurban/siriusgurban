@@ -9,6 +9,10 @@ I'm a React/Next js developer.
   
 </p>
 
+### Statics
+
+![Sirius Gurban's stats](https://github-readme-stats.vercel.app/api?username=siriusgurban&show_icons=true&theme=chartreuse-dark)
+
 <!--
 **siriusgurban/siriusgurban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
