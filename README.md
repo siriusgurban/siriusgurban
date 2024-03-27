@@ -38,7 +38,7 @@ I'm a React/Next js developer.
 #
 
 ### Most Languages
-<p dir="auto"><a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siriusgurban&amp;layout=donut" style="max-width: 100%;"></a></p>
+<p dir="auto"><a href="https://github.com/siriusgurban/github-readme-stats"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siriusgurban&amp;layout=donut" style="max-width: 100%;"></a></p>
 
 
 
