@@ -16,7 +16,7 @@ I'm a React/Next js developer.
 
 ### Statics
 
-![Sirius Gurban's stats](https://github-readme-stats.vercel.app/api?username=siriusgurban&show_icons=true&theme=chartreuse-dark)
+![Sirius Gurban's stats](https://github-readme-stats.vercel.app/api?username=siriusgurban&show_icons=true&theme=chartreuse-dark) <p dir="auto"><a href="https://github.com/siriusgurban?tab=repositories"><img alt="Top Langs" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=siriusgurban&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" style="max-width: 100%;"></a></p>
 
 #
 
@@ -33,7 +33,7 @@ I'm a React/Next js developer.
 <img align="left" alt="materialui" width="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg"/>
 <img align="left" alt="bootstrap" width="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"/>
 </p>
-<p dir="auto"><a href="https://github.com/siriusgurban?tab=repositories"><img alt="Top Langs" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=siriusgurban&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" style="max-width: 100%;"></a></p>
+
 
 
 #
