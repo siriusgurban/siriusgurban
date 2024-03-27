@@ -6,10 +6,9 @@ I'm a React/Next js developer.
 
 <p align="left">
   <a href="https://github.com/siriusgurban?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/>
-  </a>
-  <a href="https://github.com/siriusgurban?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/siriusgurban?color=236ad3&amp;labelColor=1155ba&amp;style=for-the-badge&amp;logo=person-add&amp;label=Follow&amp;logoColor=white" style="max-width: 100%;"></a>
+  <a href="https://github.com/DenverCoder1/Simple-View-Counter">
+    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/siriusgurban-profile-views" style="max-width: 100%;"></a>
 </p>
 
 
