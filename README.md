@@ -9,6 +9,7 @@ I'm a React/Next js developer.
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/siriusgurban?color=236ad3&amp;labelColor=1155ba&amp;style=for-the-badge&amp;logo=person-add&amp;label=Follow&amp;logoColor=white" style="max-width: 100%;"></a>
 <a href="https://github.com/siriusgurban?tab=repositories&amp;sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/siriusgurban?color=55960c&amp;style=for-the-badge&amp;labelColor=488207&amp;logo=star" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/33bbb9f601e5bb2f84803457ca7baef4ffb8970abed4c2f98b1b5f3731098e11/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d726168696d6c697361726b68616e26636f6c6f723d314134373330"><img alt="ViewCount" src="https://komarev.com/ghpvc/?username=siriusgurban&amp;color=1A4730" style="max-width: 100%;"></a>
 </p>
 
 
